@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1758838860 source:c:\users\lucas\documents\whoa\pico\cassino\simples\nickel_s\main.c
+	<stdio.h>
+	<stdlib.h>
+	"logica_ROLO.h"
+	"rolo_SDL.h"
+
+1758844931 c:\users\lucas\documents\whoa\pico\cassino\simples\nickel_s\logica_rolo.h
+	<time.h>
+	<stdlib.h>
+	<assert.h>
+
+1758843338 source:c:\users\lucas\documents\whoa\pico\cassino\simples\nickel_s\logica_rolo.c
+	"logica_ROLO.h"
+	<time.h>
+
+1758845268 source:c:\users\lucas\documents\whoa\pico\cassino\simples\nickel_s\rolo_sdl.c
+	"rolo_SDL.h"
+
+1758838871 c:\users\lucas\documents\whoa\pico\cassino\simples\nickel_s\rolo_sdl.h
+	<SDL3/SDL.h>
+	<SDL3_ttf/SDL_ttf.h>
+	<SDL3_image/SDL_image.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	"logica_ROLO.h"
+
